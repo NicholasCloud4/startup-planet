@@ -1,0 +1,15 @@
+{
+    "name": "startup-planet",
+    "version": "1.0.0",
+    "description": "a dataset of the world's most promising startups",
+    "license": "ISC",
+    "author": "Nicholas",
+    "type": "module",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
